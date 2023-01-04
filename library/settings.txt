@@ -1,0 +1,4 @@
+using_ai=1;
+auto_reset=1;
+allow_cheat=0;
+ai_training=1;
